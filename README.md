@@ -1,6 +1,6 @@
-#O'MyMind
-##Programa de Atención Psicológica
-###Administración de Proyectos de Software - Universidad Veracruzana
+# O'MyMind
+## Programa de Atención Psicológica
+### Administración de Proyectos de Software - Universidad Veracruzana
 
 <img src="http://colaboracion.uv.mx/afbg-combas/imagenespublicas/Flor1024x768SinFondo.png" width="200" height="150" style="float:right"/>
 
