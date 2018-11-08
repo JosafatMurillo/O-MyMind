@@ -14,3 +14,4 @@ Los miembros involucrados en este proyecto son los alumnos:
 - [Adolfo Ángel de la Cruz Díaz](https://github.com/AdolfoA98)
 - [Jethran Enrique Gómez San Gabriel](https://github.com/jeth18)
 - [José Alberto  Espinoza Castillo](https://github.com/betoes)
+- [Elsa Irasema Caicero Franco](https://github.com/irasemcai)
